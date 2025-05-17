@@ -21,5 +21,4 @@ Hello! My name is Seth Baker. I'm pursuing a B.S. degree in Computer Science - C
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Valgrind-009480?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-34A853?style=for-the-badge&logo=esri&logoColor=white" />
 </p>
